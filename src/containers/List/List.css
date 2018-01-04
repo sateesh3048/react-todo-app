@@ -1,0 +1,50 @@
+.List{
+  padding: 10px;
+  margin: 5px;
+  width: 70%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.Unstyled{
+  list-style: none;
+  border: 1px solid #ccc;
+
+}
+
+.InputStyle{
+  width: 70%;
+  padding: 12px 20px;
+  margin: 0px 0px;
+  border: 0px;
+}
+
+.InputStrike{
+  text-decoration: line-through;
+  color: #ccc;
+}
+
+.Inline {
+  display: inline;
+  font-size: 11px;
+}
+
+.LinkStyle{
+  margin: 0 5px;
+  text-decoration: none;
+}
+
+.LinkHighlight{
+  padding: 4px;
+  border: 1px solid #ccc;
+}
+
+.LinksOperationStyle{
+  padding: 10px;
+}
+
+.StyleItemsCount{
+  text-align: left;
+  margin: 0 25px 0px 0px;
+  color: blueviolet;
+}
